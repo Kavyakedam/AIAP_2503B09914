@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-11-14T21:37:39.930710",
+  "total_applicants": 1,
+  "scoring_weights": {
+    "education": 0.25,
+    "experience": 0.3,
+    "skills": 0.2,
+    "certifications": 0.1,
+    "interview": 0.1,
+    "references": 0.05
+  },
+  "applicants": [
+    {
+      "name": "kavya kedam",
+      "email": "kedamkavya@gmail.com",
+      "position": "HR",
+      "education_level": "master",
+      "education_relevant": true,
+      "experience_years": 2.0,
+      "skills": [
+        {
+          "name": "communication",
+          "level": "advanced"
+        },
+        {
+          "name": "tester",
+          "level": "intermediate"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "software testing",
+          "valid": true
+        }
+      ],
+      "interview_performance": "excellent",
+      "reference_quality": "excellent",
+      "date_added": "2025-11-14T21:34:21.573289",
+      "score": 84.25,
+      "score_breakdown": {
+        "education": 95,
+        "experience": 70,
+        "skills": 72.5,
+        "certifications": 100.0,
+        "interview": 100,
+        "references": 100,
+        "total": 84.25
+      }
+    }
+  ]
+}
