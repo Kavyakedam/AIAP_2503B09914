@@ -1,0 +1,2 @@
+{"city": "Gaya", "temperature": 11.95, "humidity": 82, "weather": "mist"}
+{"city": "Warangal", "temperature": 20.54, "humidity": 70, "weather": "clear sky"}
